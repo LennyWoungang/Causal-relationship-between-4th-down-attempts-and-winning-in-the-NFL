@@ -7,9 +7,6 @@ library(tmle)
 library(earth)
 library(Matching)
 library(survey)
-setwd("~/Desktop/School/Old Courses/PHM6078 (Inference causale)/Project")
-
-
 
 #### Retrieving datasets
 IND <- read.csv("IND_dataset.csv")
